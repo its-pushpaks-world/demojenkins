@@ -42,7 +42,7 @@ pipeline {
                 sh 'tar -xvf ${TAR_FILE}'
             }
         }
-        post {
+        stage('post') {
             steps {
                 //Create log file
                 sh 'ls -lrt'
