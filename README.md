@@ -1,6 +1,6 @@
 # Jenkinsfile
 
-GitHub repository to untar configurations file using Jenkins.
+GitHub repository to untar configuration files using Jenkins.
 
 ---------------------------- ABOUT ----------------------------
 
